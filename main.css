@@ -1,0 +1,46 @@
+h1 {
+    color:#8a7349;
+    font-size: 6em;
+}
+
+body {
+    background: #fff;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #545454;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 900px;
+    padding: 2em 2em 4em;
+}
+
+p.left {
+    float: left;
+    width: 49%;
+}
+p.right {
+    float: right;
+    padding: 0 0 0 2%;
+    width: 49%;
+}
+img {
+    background: transparent;
+    border: 10px solid rgba(0, 0, 0, 0.12);
+    border-radius: 1px;
+    display: block;
+    margin: 1.3em auto;
+    max-width: 95%;
+}
+
+footer #left {
+    float: left;
+    width: 50%;
+    
+}
+
+footer #right {
+    float: right;
+    text-align: right;
+    
+}
